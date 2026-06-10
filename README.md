@@ -1,10 +1,10 @@
-# Research-Design-Empathy-and-Racism-during-Childbirth
+# 🩺 Race & Empathy in Childbirth Care
 
 **A mixed-methods research proposal examining whether race shapes the empathy clinicians extend to women in pain during labor.**
 
 ## 📌 Overview
 
-Before a single model is trained or a row of data collected, someone has to decide whether the question is the right one, whether the chosen measures actually capture it, and whether the evidence will withstand scrutiny. That work is research design, and it is what separates an analysis that informs a decision from one that merely looks rigorous. The strongest data scientists and AI engineers are fluent here: they recognize that a flawless model built on a poorly framed question or a biased sampling process produces confident answers to the wrong problem.
+Before a single model is trained or a row of data collected, someone has to decide whether the question is the right one, whether the chosen measures actually capture it, and whether the evidence will withstand scrutiny. That work is research design, and it is what separates an analysis that informs a decision from one that merely looks rigorous. This kind of judgment sits upstream of any model. A flawless model built on a poorly framed question or a biased sampling process produces confident answers to the wrong problem, and no amount of downstream sophistication can recover from it.
 
 This project is an exercise in that judgment. Working as an interdisciplinary team, we wrote a research proposal for a defined professional audience, hospitals, birthing centers, and the clinicians they train, around a question that is both socially urgent and methodologically demanding.
 
@@ -44,3 +44,4 @@ A four-person, interdisciplinary team. Members owned individual sections and the
 
 - The full research proposal
 - The pitch slides
+
