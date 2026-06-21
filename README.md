@@ -12,7 +12,7 @@ This project puts that judgment to work. Working as an interdisciplinary team, w
 
 ## 🎯 The Goal
 
-A research proposal has to do two things: convince its audience that a question is worth answering and show that it can be answered credibly. The objective here was to make that case, arguing that whether race shapes clinician empathy during labor is a question worth studying and laying out a design rigorous enough to deliver a trustworthy answer.
+The goal of this project was to design a research proposal that does two things: convinces its audience that a question is worth answering and shows that it can be answered credibly. Ours makes that case for studying whether race shapes clinician empathy during labor, arguing the question matters and laying out a design rigorous enough to deliver a trustworthy answer.
 
 **The central question is whether race influences how empathetically medical professionals respond to a woman's expressions of pain during labor.**
 
@@ -37,6 +37,6 @@ A proposal earns approval by showing what the research would change. If carried 
 
 ## 🏁 Outcome
 
-The deliverable is the design itself, an argument that this research should be undertaken, backed by a study rigorous enough to produce defensible evidence if run. It contributes a measurable definition of empathy, a sampling strategy that controls for socioeconomic confounding, plus validity safeguards engineered to let the eventual findings hold up under scrutiny.
+What this design produces is a hard question made answerable. Empathy during labor sounds like something you can only feel, never measure. The proposal turns it into observable behaviors a survey can score and an interview can illuminate, draws a sample where race can be compared without income muddying the picture and builds in the checks that let the conclusions survive scrutiny. The study is ready to run.
 
-The point was never empathy for its own sake. Empathy is the lever. A clinician who recognizes and responds to a laboring woman's pain manages that pain better. In a setting where Black women die from pregnancy-related causes at roughly three times the rate of white women, how staff respond in the moment is not a courtesy. It is tied to suffering, trust and outcomes. A hospital that can see where empathy breaks down by race can fix it through training and protocol. That is what makes this study worth running and its findings worth acting on.
+The reason to run it is not empathy for its own sake. Empathy is the lever. A clinician who recognizes and responds to a laboring woman's pain manages that pain better. In a setting where Black women die from pregnancy-related causes at roughly three times the rate of white women, how staff respond in the moment is not a courtesy. It is tied to suffering, trust and outcomes. A hospital that can see where empathy breaks down by race can fix it through training and protocol. That is what makes this study worth running and its findings worth acting on.
