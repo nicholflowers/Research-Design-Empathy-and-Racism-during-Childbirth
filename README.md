@@ -1,8 +1,6 @@
 # 🩺 Race & Empathy in Childbirth Care
 
-**A mixed-methods research proposal examining whether race shapes the empathy clinicians extend to women in pain during labor.**
-
-> This is a research **proposal**, a complete study design rather than a completed study. It defines the question, how empathy gets measured, who is sampled and how, the analysis plan and the safeguards that would make the eventual findings trustworthy. No data has been collected; the proposal specifies exactly how it would be.
+**A research proposal examining whether race shapes the empathy clinicians extend to women in pain during labor.**
 
 ## 📌 Overview
 
@@ -12,7 +10,7 @@ This project puts that judgment to work. Working as an interdisciplinary team, w
 
 ## 🎯 The Goal
 
-The goal of this project was to design a research proposal that does two things: convinces its audience that a question is worth answering and shows that it can be answered credibly. Ours makes that case for studying whether race shapes clinician empathy during labor, arguing the question matters and laying out a design rigorous enough to deliver a trustworthy answer.
+The goal of this project was to design a research proposal that does two things. It has to convince its audience that a question is worth answering and show that it can be answered credibly. Part of that was deciding what kind of study to run at all, choosing an approach that could capture something as hard to measure as empathy. Ours makes the case for studying whether race shapes clinician empathy during labor, arguing the question matters and laying out a design rigorous enough to deliver a trustworthy answer.
 
 **The central question is whether race influences how empathetically medical professionals respond to a woman's expressions of pain during labor.**
 
@@ -20,8 +18,10 @@ The stakes are real. Black women in the United States are roughly three times mo
 
 ## 🧭 The Approach
 
-- **Operationalizing empathy.** We translated an abstract construct into a set of observable clinician behaviors so that it could be measured rather than asserted: acknowledging pain, working to understand its degree and character, offering verbal and physical comfort, presenting options for relief and responding promptly to requests for medication.
-- **A convergent mixed-methods design.** Quantitative and qualitative streams are gathered in parallel and integrated: a patient survey scoring responsiveness across those dimensions, a parallel survey of a chosen support person to triangulate each account, semi-structured interviews with patients and their support people, plus clinician interviews to establish the prevailing standard of care. The design centers the interviews and treats the surveys as support, because a survey can score whether a behavior happened but cannot capture how the care was experienced. Empathy and labor stories are deeply communicative; they come through in conversation, not a rating, which is why face-to-face interaction is treated as the core measurement instrument.
+- **Why mixed methods.** The question pulls in two directions. To compare across many women you need a consistent, structured measure. To understand what empathy actually looked like in the room you need depth and detail. A survey delivers the first but flattens the second. Interviews deliver the second but lose the structured comparison needed to test a difference by race. Mixed methods uses both, gathered in parallel and checked against each other, so the design captures the comparison and the meaning at once.
+- **Turning empathy into something measurable.** Empathy is easy to assert and hard to pin down, so we broke it into specific, observable things a clinician does and can be asked about: whether they acknowledged the pain, worked to understand its degree and character, offered comfort in words and through touch, suggested ways to ease it and responded quickly to requests for medication. (Researchers call this operationalizing, turning a vague concept into something you can actually measure.)
+- **Four sources, cross-checked.** The study draws on a patient survey scoring responsiveness across those behaviors, a parallel survey from a support person the patient chose to have in the room, semi-structured interviews with both, plus interviews with clinicians to establish what standard care should look like.
+- **Interviews lead, surveys support.** A survey can record whether a behavior happened but not how the care felt. Empathy and labor stories are deeply communicative; they come through in conversation, not a rating. So the interviews are the core instrument and the survey scores reinforce what they reveal.
 - **Sampling for a defensible comparison.** The plan recruits comparable numbers of white and non-white participants across socioeconomic strata in Sacramento County, drawing on both paid and free service organizations and on Census data, specifically to keep race from being confounded with income. A saturation rule stops recruitment once new themes stop emerging, which means recruiting, interviewing and analyzing proceed together rather than in sequence.
 - **A falsifiable hypothesis.** The design tests the null hypothesis of no association between race and clinician empathy against the alternative that women of color and their support people perceive diminished responsiveness.
 - **Analysis.** Interview data is coded (chunked into themes, grouped into a small set of codes), then code frequencies and severities are compared between white women and women of color, with survey results used to cross-check the coded narratives.
